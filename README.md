@@ -43,24 +43,6 @@ The **PIMA Diabetes Dataset** contains 768 rows and 9 columns, with the followin
 - `Age`: Age of the person.
 - `Outcome`: Target variable (0 = Non-diabetic, 1 = Diabetic).
 
-## Installation Guide
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/your-username/diabetes-prediction.git
-    cd diabetes-prediction
-    ```
-
-2. **Install dependencies**:
-    You can install the necessary Python packages using pip:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-    Or, install them individually:
-    ```bash
-    pip install pandas numpy scikit-learn
-    ```
 
 ## Usage
 
